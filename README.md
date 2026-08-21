@@ -28,9 +28,9 @@ AI Engineer • Building RAG Systems • AI Agents • Backend
 - AI Engineer focused on **RAG, AI Agents and Backend Systems**
 - Designing retrieval pipelines, chunking strategies and evaluation workflows
 - Built **Kiro**, an AI Chrome extension for prompt optimization specifically for ChatGPT
-- Built production RAG systems serving **370+ users** at Nirvik
+- Built production RAG systems serving **370+ users** at my AI/ML internship at Nirvik
 - Winner — **FOSS Fest 2025**
-- Organized **Hack Genesis '24** (500+ participants)
+- Organized **Hack Genesis '24** (with 500+ participants globally and with a $1000/- prize pool)
 
 ---
 
